@@ -1,0 +1,114 @@
+{
+      "R-sanjiao-1":{
+            "left": {
+                  "direction": [180, 0, 0]
+            },
+            "right": {
+                  "direction": [180, 0, 0]
+            }
+      },
+      "L-pi-4":{
+            "left": {
+                  "direction": [180, 0, 0]
+            },
+            "right": {
+                  "direction": [180, 0, 0]
+            }
+      },
+      "L-xinbao-1":{
+            "left": {
+                  "direction": [180, 0, 0]
+            },
+            "right": {
+                  "direction": [180, 0, 0]
+            }
+      },
+      "L-wei-15":{
+            "left": {
+                  "direction": [180, 0, 0]
+            },
+            "right": {
+                  "direction": [180, 0, 0]
+            }
+      },
+      "R-pangguang-11":{
+            "left": {
+                  "direction": [180, 0, 0]
+            },
+            "right": {
+                  "direction": [180, 0, 0]
+            }
+      },
+      "R-pangguang-20":{
+            "left": {
+                  "direction": [180, 0, 0]
+            },
+            "right": {
+                  "direction": [180, 0, 0]
+            }
+      },
+      "L-fei-1":{
+            "left": {
+                  "direction": [180, 0, 0]
+            },
+            "right": {
+                  "direction": [180, 0, 0]
+            }
+      },
+      "L-dan-21":{
+            "left":{
+                  "direction": [180, 0, 0]
+            },
+            "right":{
+                  "direction": [180, 0, 0]
+            }
+      },
+      "L-dan-24":{
+            "left":{
+                  "direction": [90, 0, 0]
+            },
+            "right":{
+                  "direction": [90, 0, 0]
+            }
+      },
+      "L-dan-51":{
+            "left":{
+                  "direction": [180, 0, 0]
+            },
+            "right":{
+                  "direction": [180, 0, 0]
+            }
+      },
+      "L-dan-27":{
+            "left":{
+                  "direction": [135, 0, 0]
+            },
+            "right":{
+                  "direction": [135, 0, 0]
+            }
+      },
+      "L-dan-28":{
+            "left":{
+                  "direction": [90, 0, 0]
+            },
+            "right":{
+                  "direction": [90, 0, 0]
+            }
+      },
+      "L-gan-2":{
+            "left": {
+                  "direction": [180, 0, 0]
+            },
+            "right": {
+                  "direction": [180, 0, 0]
+            }
+      },
+      "L-gan-15-1":{
+            "left": {
+                  "direction": [90, 0, 0]
+            },
+            "right": {
+                  "direction": [90, 0, 0]
+            }
+      }
+}
